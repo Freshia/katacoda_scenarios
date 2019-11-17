@@ -28,7 +28,7 @@
   "assets": {
     "client": [{
       "file": "step3.md",
-      "target": "/home/scrapbook/",
+      "target": "/root",
       "chmod": "+x"
     }]
   },
