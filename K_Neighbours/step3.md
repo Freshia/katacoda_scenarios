@@ -5,7 +5,6 @@ Open the file `myprogram/k_neighbours.py` and paste the following
 <pre class="file" data-filename="myprogram/k_neighbours.py" data-target="replace">
 
 import numpy as np
-import matplotlib as plt
 import pandas as pd
 from sklearn import datasets,preprocessing,cross_validation,neighbors,model_selection
 breasts = datasets.load_breast_cancer()
