@@ -2,7 +2,7 @@
 
 Open the file `myprogram/data_exploration.py` and paste the following
 
-<pre class="file" data-filename="myprogram/linear_regression.py" data-target="replace">
+<pre class="file" data-filename="myprogram/data_exploration.py" data-target="replace">
 import numpy as np
 import matplotlib as plt
 import pandas as pd
